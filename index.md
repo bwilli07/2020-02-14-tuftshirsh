@@ -34,9 +34,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 For a workshop please delete the following block until the next dashed-line
 {% endcomment %}
 
-<div class="alert alert-danger">
 
-</div>
 
 {% comment %}
 8< ============================= until here ==================
